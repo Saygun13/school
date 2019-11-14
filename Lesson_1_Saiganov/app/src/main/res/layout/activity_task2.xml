@@ -8,24 +8,24 @@
     tools:context=".Task2Activity">
 
     <EditText
+        android:id="@+id/newStudent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:maxLength="40"
-        android:id="@+id/newStudent"
-        android:hint="Введите ученика"/>
+        android:hint="Имя Фамилия Класс Год_Рождения"
+        android:maxLength="40" />
 
     <Button
+        android:id="@+id/showStudent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/showStudent"
-        android:text="Показать учеников"/>
+        android:text="Показать учеников" />
 
     <TextView
+        android:id="@+id/studentsList"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/studentsList"
-        android:paddingTop="10dp"
         android:paddingLeft="10dp"
-        android:textSize="20dp"/>
+        android:paddingTop="10dp"
+        android:textSize="20dp" />
 
 </LinearLayout>
