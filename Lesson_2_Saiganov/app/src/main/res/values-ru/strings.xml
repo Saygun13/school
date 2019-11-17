@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Урок_2_Сайганов</string>
+    <string name="task1_textview_Pushkin">Я памятник себе воздвиг нерукотворный,&#xA;К нему не зарастет народная тропа,&#xA;Вознесся выше он главою непокорной&#xA;Александрийского столпа.</string>
+    <string name="task1_button">Радость и счастье</string>
+</resources>
