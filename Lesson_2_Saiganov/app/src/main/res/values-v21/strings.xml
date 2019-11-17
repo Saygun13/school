@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Не понял как совмещать зависимость от платформы и локали  -->
     <string name="task1_button">Радость и счастье</string>
 </resources>
